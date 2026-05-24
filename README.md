@@ -139,9 +139,7 @@ Tap a template to instantly send it to the chat. Custom templates can be added f
 
 ### Appearance
 - Switch between English and Indonesian
-- Choose from 5 themes: Claude Dark, Deep Ocean, Forest Terminal, Clean Light, Crimson
-- Adjust font size
-- Enable biometric lock (fingerprint/face ID)
+- Adjust font Light
 - Configure notifications
 
 ## Managing Data
